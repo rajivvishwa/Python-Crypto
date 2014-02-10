@@ -6,3 +6,5 @@
 msg.dec
 
 msg.enc
+
+*.pyc
