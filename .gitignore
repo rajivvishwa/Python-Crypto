@@ -2,3 +2,7 @@
 *.sublime-project
 
 *.sublime-workspace
+
+msg.dec
+
+msg.enc

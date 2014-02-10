@@ -29,8 +29,8 @@ class AESCipher:
  
 if __name__== "__main__":
     
-    key = 'f28c55199aaa2cc7e72e01c97f1dd3a'
-    plaintext = 'f28c55199aaa2cc7e72e01c97f1dd3a';
+    key = '012345678'
+    plaintext = 'abcdefghijkmnopqa1234s1222s';
     
     # AES key must be either 16, 24, or 32 bytes long. Hence padding with block_size
     key = pad(key).encode('hex')
