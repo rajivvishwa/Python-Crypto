@@ -16,7 +16,7 @@ Containes usage of various python crypto classes and other useful crypto resourc
 	* MD5 File Hash - [link](MD5-File.py)
 1. **HMAC**
 	* HMAC-MD5 File Hash - [link](HMAC.py) 
-	* HMAC-SH256 - [link](HMAC.py)
+	* HMAC-SHA256 - [link](HMAC.py)
 1. **Padding**
 	* PKCS#7 - [link](PKCS7.py)
 	* Generic Padding -[link](PaddingTester.py)
